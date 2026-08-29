@@ -22,6 +22,9 @@ O objetivo criar um projeto voltado a comunidade cristã.
 
 
     
+## Repositório referencia de projetos para iniciantes 
+[App Ideas Collections - credit_florinpop17](https://github.com/florinpop17/app-ideas)
+
 
 ## Sugestões de projetos
 
@@ -51,7 +54,7 @@ is_high_risk = (resting_hr > 90 or not exercises_regularly) and (age > 45 or is_
 - Caloric target and workout split tiering.
 Division of Work (3 People):
 - Person 1 — Biometrics Ingestion & Sanitization:
-- Collects user health stats, validates ranges (e.g., positive non-zero numbers), sets None states for optional inputs (like heart rate).
+- Collects user health stats, validates ranges (e.g., positive non-zero numbers), sets None states for optional inputs (like heart ra
 - Person 2 — Biometric Calculation & Risk Scoring:
 - Implements formulas (BMI, Basal Metabolic Rate, heart-rate zones) using arithmetic operators and shorthand (+=, -=, *=).
 - Applies compound boolean conditions to flag warning metrics.
